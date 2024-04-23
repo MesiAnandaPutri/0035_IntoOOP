@@ -28,4 +28,7 @@ public:
         cin >> kodeMk;
         cout << "namaMk: ";
         cin >> namaMk;
-        
+        cout << "SKS: ";
+        cin >> sks;
+    }
+    
